@@ -1,0 +1,50 @@
+.Tiger-it{
+display:grid;
+grid-template-columns: repeat(4, 1fr);
+grid-gap: 20px;
+margin:30px;
+column-gap: 20px;
+} 
+.content{
+    column-gap: 20px;
+}
+.menu-list ul li a{
+    text-decoration: none;
+    color:black;
+    
+   
+}
+.menu-list ul li{
+    list-style:none;
+   margin-right:35px;
+    
+   
+}
+.menu-aitem{
+    display:flex;
+    position:relative;
+    left:100px;
+   
+  
+    
+}
+.menu-list{
+  display:flex;
+   position:relative;
+ left:250px;
+ top:10px;
+
+    
+}
+.menu-list ul{
+    display:flex;
+   
+    
+}
+.menu{ 
+   
+    
+}
+.border{
+    background-image: url(1.jpg);
+}
